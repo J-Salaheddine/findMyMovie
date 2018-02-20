@@ -5,4 +5,6 @@
 
 export const environment = {
   production: false
+  /*THEMOVIEDB_API_KEY: '92b418e837b833be308bbfb1fb2aca1e',
+  THEMOVIEDB_API_URL: 'https://api.themoviedb.org/3/'*/
 };
